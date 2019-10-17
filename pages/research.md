@@ -4,7 +4,11 @@ title: Research (work in progress)
 description: Current research activities
 ---
 
-My current research activities are grounded in the AgoraNatura project (https://agora-natura.de/)
+My current research activities are linked to the AgoraNatura project <a href="https://agora-natura.de/">(click here for more info)</a>, in which I am responsible for doing research on land managers' preferences for privately financed *Payments for Ecosystem Services* schemes. 
+
+Doing so, I will both apply qualitative and quantitative methods, such as Q-methodology and Discrete Choice Experiments. Being formerly trained in Economics (B.Sc. and M.Sc.), I enjoy working empirically by applying most up to date statistical methods.
+
+For the moment being, my PhD dissertation will be built up upon the following three publications:
 
 #### <u>Discrete Choice Experiments informing environmental policies - A systematic review</u>
 *Approaching the question of how Discrete Choice Experiments have been used to inform environmental policies, specically the design of Payments for Ecosystem Services schemes. The focus will be set on studies conducted with Ecosystem Services providers and their particular preferences for varying contract attributes.*
