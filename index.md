@@ -19,13 +19,13 @@ I am a PhD candidate at Leibniz Centre for Agricultural Landscape Research. My r
     <div class="row-fluid">
         <div class="span5">
             Christoph Schulze<br/>
-            Email: christoph.schulze@zalf.de<br/>
+            <a href="mailto:christoph.schulze@zalf.de">Email: christoph.schulze@zalf.de</a><br/>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title="Christoph Schulze" alt="Christoph Schulze"/></a>
         </div>
     </div>
 </div>
