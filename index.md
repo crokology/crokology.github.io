@@ -18,8 +18,8 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Christoph Schulze<br/>
+            Email: christoph.schulze@zalf.de<br/>
         </div>
 
         <div class="span2">
@@ -34,8 +34,8 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://github.com/crokology">GitHub</a></li>
+          <li><a href="https://twitter.com/crokochris">Twitter (@crokochris)</a></li>
       </ul>
   </div>
 </div>
