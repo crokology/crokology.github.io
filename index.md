@@ -19,7 +19,7 @@ I am a PhD candidate at Leibniz Centre for Agricultural Landscape Research. My r
     <div class="row-fluid">
         <div class="span5">
             Christoph Schulze<br/>
-            <a href="mailto:christoph.schulze@zalf.de">Email: christoph.schulze@zalf.de</a><br/>
+            Email: <a href="mailto:christoph.schulze@zalf.de">christoph.schulze@zalf.de</a><br/>
         </div>
 
         <div class="span2">
