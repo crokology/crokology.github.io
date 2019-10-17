@@ -5,7 +5,7 @@ description: Christoph Schulze is a PhD candidate at Leibniz University Hannover
 keywords: Discrete Choice Experiments, Ecological Economics, Ecosystem Services, Behavioral Economics
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+I am a PhD candidate at Leibniz Centre for Agricultural Landscape Research. My research interests include choice modelling by using Discrete Choice Experiments and analysing farmer behavior through the application of experimental economics.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
