@@ -4,7 +4,7 @@ title: Research (work in progress)
 description: Current research activities
 ---
 
-
+My current research activities are grounded in the AgoraNatura project (https://agora-natura.de/)
 
 #### <u>Discrete Choice Experiments informing environmental policies - A systematic review</u>
 *Approaching the question of how Discrete Choice Experiments have been used to inform environmental policies, specically the design of Payments for Ecosystem Services schemes. The focus will be set on studies conducted with Ecosystem Services providers and their particular preferences for varying contract attributes.*
