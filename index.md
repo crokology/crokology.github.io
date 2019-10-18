@@ -7,7 +7,7 @@ keywords: Discrete Choice Experiments, Ecological Economics, Ecosystem Services,
 
 I am a PhD candidate at the Leibniz Centre for Agricultural Landscape Research. My research interests include choice modelling by using Discrete Choice Experiments and analysing farmer behavior through the application of experimental economics.
 
-Being formerly trained in Economics (B.Sc. and M.Sc.), I enjoy working empirically by applying most up to date statistical methods. While studying Ecological Economics (M.Sc.) at Edinburgh University, I became more familiar with qualitative approaches to improve stakeholder engagement in the environmental sphere. Thus, in my current research activities I aim to combine my quantitative skill set with transdisciplinary-participatory approaches.
+Being formerly trained in Economics (B.Sc. and M.Sc.), I enjoy working empirically by applying most up to date statistical methods. While studying Ecological Economics (M.Sc.) at Edinburgh University, I became more familiar with qualitative approaches to improve stakeholder engagement in the environmental sphere. Thus, in my current research activities I combine my quantitative skill set with transdisciplinary-participatory approaches.
 
 In my free time I enjoy running and wood working of all kinds.
 
