@@ -9,7 +9,7 @@ I am a PhD candidate at the Leibniz Centre for Agricultural Landscape Research. 
 
 Being formerly trained in Economics (B.Sc. and M.Sc.), I enjoy working empirically by applying most up to date statistical methods. While studying Ecological Economics (M.Sc.) at Edinburgh University, I became more familiar with qualitative approaches to improve stakeholder engagement in the environmental sphere. Thus, in my current research activities I combine my quantitative skill set with transdisciplinary-participatory approaches.
 
-While presently being based in Müncheberg (Germany), I was fortunate to spent parts of my academic education in Mexico, Canada and the UK. During my stays abroad I developed a passion for intercultural exchange and constantly widened my approaches to conduct research.
+While presently being based in Müncheberg (Germany), I was fortunate to spent parts of my academic education in Mexico, Canada and the UK. During my stays abroad I developed a passion for intercultural exchange and constantly widened my approaches to conduct research. I consider myself a strong advocate of transdisciplinary research.
 
 In my free time I enjoy running and wood working of all kinds.
 
