@@ -4,7 +4,7 @@ title: Research (work in progress)
 description: Current research activities
 ---
 
-My current research activities are linked to the AgoraNatura project <a href="https://agora-natura.de/">(click here for more info)</a>, in which I am responsible for doing research on land managers' preferences for privately financed *Payments for Ecosystem Services* schemes. 
+My current research activities are linked to the AgoraNatura project <a href="https://agora-natura.de/">(click here for more info)</a>, in which I am responsible for investigating land managers' preferences for privately financed *Payments for Ecosystem Services* schemes. 
 
 Doing so, I will both apply qualitative and quantitative methods, such as Q-methodology and Discrete Choice Experiments. For the moment being, my PhD dissertation will be built up upon the following three publications:
 
