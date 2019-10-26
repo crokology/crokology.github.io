@@ -20,9 +20,9 @@ Doing so, I will both apply qualitative and quantitative methods, such as Q-meth
 ---
 ### Other research activities
 #### <u>Preference analysis for novel contract models in EU agri-environmental policy</u>
-Apart from AgoraNatura, I am also involved in the EU project "*Contracts2.0 - Co-design of novel contract models for innovative agri-environmental-climate measures and for valorisation of environmental public goods"*. My contribution here lies within modelling public preference and analysis of perceptions of label-based approaches to stimulate the provision of ecosystem services within the value chain. To achieve this we will apply Discrete Choice Experiments and Economic Experiments to assess cooperation among farmers and their incentives to do so.  
+Apart from AgoraNatura, I am also involved in the EU project "*Contracts2.0 - Co-design of novel contract models for innovative agri-environmental-climate measures and for valorisation of environmental public goods"*. My contribution here lies within modelling public preference and analysis of perceptions of label-based approaches to stimulate the provision of ecosystem services within the value chain. To achieve this, we will apply Discrete Choice Experiments and Economic Experiments to assess cooperation among farmers and their incentives to do so.  
 #### <u>Public preferences for peatland restoration in Scotland</u>
-
+The dissertation of my Master's degree in Ecological Economics concerned a public preference survey in Scotland, regarding restoration policies of peatlands. I was not involved in the design of the experiment (courtesy of Julia Martin-Ortega, Michela Faccioli and Klaus Glenk), but had the chance to be the first person doing analysis with the data. 
 
 
 
