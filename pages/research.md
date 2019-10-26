@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research (work in progress)
+title: Research (PhD related)
 description: Current research activities
 ---
 
@@ -19,6 +19,13 @@ Doing so, I will both apply qualitative and quantitative methods, such as Q-meth
 
 ---
 ### Other research activities
+#### <u>Prefenence analysis for novel contract models in EU agri-environmental policy</u>
+
+Co-design of novel contract models for innovative agri-environmental-climate measures and for valorisation of environmental public goods
+#### <u>Public preferences for peatland restoration in Scotland</u>
+
+
+
 
 <!--[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)-->
 
