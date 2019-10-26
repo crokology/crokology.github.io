@@ -17,6 +17,9 @@ Doing so, I will both apply qualitative and quantitative methods, such as Q-meth
 #### <u>Institutional design of privately financed Payments for Ecosystem Services schemes</u>
 *Conducting a Discrete Choice Experiment survey with German farmers, I will analyse landowners' preferences for the institutional design of privately financed Payments for Ecosystem Services schemes.*
 
+---
+### Other research activities
+
 <!--[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)-->
 
 
