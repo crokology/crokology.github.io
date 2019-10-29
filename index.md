@@ -5,7 +5,7 @@ description: Christoph Schulze is a PhD candidate at Leibniz University Hannover
 keywords: Discrete Choice Experiments, Ecological Economics, Ecosystem Services, Behavioral Economics
 ---
 
-I am a PhD candidate at the Leibniz Centre for Agricultural Landscape Research. Specifically, I am part of the working group *Governance of Ecosystem Services* led by <a href="https://www.umwelt.uni-hannover.de/matzdorf0.html?&no_cache=1&L=1">Bettina Matzdorf <\a>. My research interests include choice modelling by using Discrete Choice Experiments and analysing farmer behavior through the application of experimental economics.
+I am a PhD candidate at the Leibniz Centre for Agricultural Landscape Research. Specifically, I am part of the working group *Governance of Ecosystem Services* led by <a href="https://www.umwelt.uni-hannover.de/matzdorf0.html?&no_cache=1&L=1">Bettina Matzdorf</a>. My research interests include choice modelling by using Discrete Choice Experiments and analysing farmer behavior through the application of experimental economics.
 
 Being formerly trained in Economics (B.Sc. and M.Sc.), I enjoy working empirically by applying most up to date statistical methods. While studying Ecological Economics (M.Sc.) at Edinburgh University, I became more familiar with qualitative approaches to improve stakeholder engagement in the environmental sphere. Thus, in my current research activities I combine my quantitative skill set with transdisciplinary-participatory approaches.
 
