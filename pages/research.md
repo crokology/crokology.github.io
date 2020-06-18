@@ -18,6 +18,9 @@ Doing so, I will both apply qualitative and quantitative methods, such as Q-meth
 *Conducting a Discrete Choice Experiment survey with German farmers, I will analyse landowners' preferences for the institutional design of privately financed Payments for Ecosystem Services schemes.*
 
 ---
+### Current work in progress
+#### <u>Using product labels to stimulate the provision of ecosystem services along the value chain - stakeholder perceptions</u>
+---
 ### Other research activities
 #### <u>Preference analysis for novel contract models in EU agri-environmental policy</u>
 Apart from AgoraNatura, I am also involved in the EU project <a href="https://www.project-contracts20.eu/">"*Contracts2.0 - Co-design of novel contract models for innovative agri-environmental-climate measures and for valorisation of environmental public goods"*</a>. My contribution here lies within modelling public preference and analysis of perceptions of label-based approaches to stimulate the provision of ecosystem services within the value chain. To achieve this, we will apply Discrete Choice Experiments and Economic Experiments to assess cooperation among farmers and their incentives to do so.  
