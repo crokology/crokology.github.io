@@ -20,6 +20,7 @@ Doing so, I will both apply qualitative and quantitative methods, such as Q-meth
 ---
 ### Current work in progress
 #### <u>Using product labels to stimulate the provision of ecosystem services along the value chain - stakeholder perceptions</u>
+
 ---
 ### Other research activities
 #### <u>Preference analysis for novel contract models in EU agri-environmental policy</u>
