@@ -41,7 +41,7 @@ In my free time I enjoy running and wood working of all kinds.
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/crokology">GitHub</a></li>
-          <li><a href="https://twitter.com/crokochris">({{ BASE_PATH }}/pages/icons16/twitter.png)Twitter (@crokochris)</a></li>
+          <li><a href="https://twitter.com/crokochris">Twitter (@crokochris)</a></li>
           <li><a href="https://orcid.org/0000-0003-2637-8178">ORCID (0000-0003-2637-8178)</a></li>
       </ul>
   </div>
