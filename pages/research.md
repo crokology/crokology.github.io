@@ -9,10 +9,10 @@ My current research activities are linked to the AgoraNatura project <a href="ht
 Doing so, I will both apply qualitative and quantitative methods, such as Q-methodology and Discrete Choice Experiments. For the moment being, my PhD dissertation will be built up upon the following three publications:
 
 #### <u>Discrete Choice Experiments informing environmental policies - A systematic review</u>
-*Approaching the question of how Discrete Choice Experiments have been used to inform environmental policies, specically the design of Payments for Ecosystem Services schemes. The focus will be set on studies conducted with Ecosystem Services providers and their particular preferences for varying contract attributes.*
+*Approaching the question of how Discrete Choice Experiments have been used to inform environmental policies, specically the design of Payments for Ecosystem Services schemes. The focus of this review will be placed on studies conducted with providers of Ecosystem Services, such as farmers, land managers or other individuals that actively shape agricultural landscapes on this planet. In this review we exhaustively analyse the institutional settings of the studies by comparing land use restrictions and contract design features of the individual publications.*
 
 #### <u>Stakeholder attitudes towards Payments for Ecosystem Services scheme design</u>
-*Using Q-methodology, I will analyse stakeholder attitudes towards institutional design features of Payments for Ecosystem Services schemes to identify factors affecting farmers' uptake of conservation policies.*
+*Using Q-methodology, I will analyse stakeholder attitudes towards institutional design features of Payments for Ecosystem Services schemes to identify factors affecting farmers' uptake of conservation policies. The particular interest here is to find out, whether there exist policy mismatches between different stakeholder groups. For the context of this study, I interview farmers, policy makers and intermediaries, who facilitate the implementation of policy schemes.*
 
 #### <u>Institutional design of privately financed Payments for Ecosystem Services schemes</u>
 *Conducting a Discrete Choice Experiment survey with German farmers, I will analyse landowners' preferences for the institutional design of privately financed Payments for Ecosystem Services schemes.*
