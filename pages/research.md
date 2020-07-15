@@ -26,6 +26,11 @@ Doing so, I will both apply qualitative and quantitative methods, such as Q-meth
 ### Current work in progress
 #### <u>Using product labels to stimulate the provision of ecosystem services along the value chain - stakeholder perceptions</u>
 In this study, we apply Q-methodology to analyse stakeholder perceptions towards the potential to introduce product labels to inform about consumers about generated ecosystem services along the value chain. This is part of the EU financed project *Contracts2.0*. We conduct interviews with food producers, retailers and farmers' organisations across Germany, Poland and Spain. This will be followed up by a large scale consumer choice experiment in Europe. 
+<div class="row-fluid">
+        <a href="../assets/q-label.JPG">
+            <img src="../assets/q-label.JPG"
+                  title="Screenshot Q-study" alt="Christoph Schulze"/></a>
+        </div>
 
 ---
 ### Other research activities
