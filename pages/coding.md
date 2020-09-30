@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Material
-description: Current research activities
+description: Useful links for Q and DCE
 ---
 
 This page is intended to provide helpful resources of my research. Most of my current research deals with either Discrete Choice Experiments or Q-methodology. Thus, materials here will be linked to these tools.
 
-### Q-methodolgy
+### Q-methodology
 
 There are quite helpful resources out there to conduct a Q-study. 
 
