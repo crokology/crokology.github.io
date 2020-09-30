@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coding
+title: Material
 description: Current research activities
 ---
 
