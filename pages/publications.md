@@ -3,7 +3,7 @@ layout: page
 title: Publications
 description: Peer reviewed Journal articles
 ---
-### Peer reviewed journal articles
+#### Peer reviewed journal articles
 
 Glenk, K., Faccioli, M., Martin-Ortega, J., Schulze, C., & Potts, J. (2021). The opportunity cost of delaying climate action: Peatland restoration and resilience to climate change. Global Environmental Change, 70, 102323.
 
