@@ -9,6 +9,10 @@ Glenk, K., Faccioli, M., Martin-Ortega, J., Schulze, C., & Potts, J. (2021). The
 
 <a href="https://doi.org/10.1016/j.gloenvcha.2021.102323">Open Access Link</a>
 
+Norris, J., Matzdorf, B., Barghusen, R., Schulze, C., & van Gorcum, B. (2021). Viewpoints on Cooperative Peatland Management: Expectations and Motives of Dutch Farmers. Land, 10(12), 1326.
+
+<a href="https://doi.org/10.3390/land10121326">Open Access Link</a>
+
 <!--[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)-->
 
 
