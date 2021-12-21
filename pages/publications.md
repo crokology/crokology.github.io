@@ -5,6 +5,10 @@ description: Peer reviewed Journal articles
 ---
 #### Peer reviewed journal articles
 
+Tafel, L., Ott, E., Brillinger, M., Schulze, C., & Schröter, B. (2021). Attitudes of administrative decision-makers towards nature-based solutions for flood risk management in Germany. Sustainability Science, 1-15.
+
+<a href="https://doi.org/10.1007/s11625-021-01072-0">Open Access Link</a>
+
 Glenk, K., Faccioli, M., Martin-Ortega, J., Schulze, C., & Potts, J. (2021). The opportunity cost of delaying climate action: Peatland restoration and resilience to climate change. Global Environmental Change, 70, 102323.
 
 <a href="https://doi.org/10.1016/j.gloenvcha.2021.102323">Open Access Link</a>
