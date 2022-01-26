@@ -5,6 +5,10 @@ description: Peer reviewed Journal articles
 ---
 #### Peer reviewed journal articles
 
+Sattler, C., Rommel, J., Chen, C., García-Llorente, M., Gutiérrez-Briceño, I., Prager, K., ... & Kelemen, E. (2022). Participatory research in times of COVID-19 and beyond: Adjusting your methodological toolkits. One Earth, 5(1), 62-73.
+
+<a href="https://doi.org/10.1016/j.oneear.2021.12.006">Open Access Link</a>
+
 Tafel, L., Ott, E., Brillinger, M., Schulze, C., & Schröter, B. (2021). Attitudes of administrative decision-makers towards nature-based solutions for flood risk management in Germany. Sustainability Science, 1-15.
 
 <a href="https://doi.org/10.1007/s11625-021-01072-0">Open Access Link</a>
