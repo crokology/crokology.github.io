@@ -5,6 +5,10 @@ description: Peer reviewed Journal articles
 ---
 #### Peer reviewed journal articles
 
+Rommel, J., Schulze, C., Matzdorf, B., Sagebiel, J., & Wechner, V. (2022). Learning about German farmers’ willingness to cooperate from public goods games and expert predictions. Q Open.
+
+<a href="https://doi.org/10.1093/qopen/qoac023">Open Access Link</a>
+
 Sattler, C., Rommel, J., Chen, C., García-Llorente, M., Gutiérrez-Briceño, I., Prager, K., ... & Kelemen, E. (2022). Participatory research in times of COVID-19 and beyond: Adjusting your methodological toolkits. One Earth, 5(1), 62-73.
 
 <a href="https://doi.org/10.1016/j.oneear.2021.12.006">Open Access Link</a>
