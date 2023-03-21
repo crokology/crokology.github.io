@@ -37,8 +37,8 @@ In this study, we apply Q-methodology to analyse stakeholder perceptions towards
 #### <u>Preference analysis for novel contract models in EU agri-environmental policy</u>
 Apart from AgoraNatura, I am also involved in the EU project <a href="https://www.project-contracts20.eu/">"*Contracts2.0 - Co-design of novel contract models for innovative agri-environmental-climate measures and for valorisation of environmental public goods"*</a>. My contribution here lies within modelling public preference and analysis of perceptions of label-based approaches to stimulate the provision of ecosystem services within the value chain. To achieve this, we will apply Discrete Choice Experiments and Economic Experiments to assess cooperation among farmers and their incentives to do so.  
 <div class="row-fluid">
-        <a href="../assets/BioDiv_Labelmechanismus.JPG">
-            <img src="../assets/BioDiv_Labelmechanismus.JPG"
+        <a href="../assets/BioDiv_Labelmechanismus.jpg">
+            <img src="../assets/BioDiv_Labelmechanismus.jpg"
                   title="Label mechanism" alt="Christoph Schulze"/></a>
         </div>
 #### <u>Public preferences for peatland restoration in Scotland</u>
