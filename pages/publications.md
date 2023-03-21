@@ -5,6 +5,14 @@ description: Peer reviewed Journal articles
 ---
 #### Peer reviewed journal articles
 
+Schulze, C., & Matzdorf, B. (2023). The institutional design of agri-environmental contracts-How stakeholder attitudes can inform policy making. Q Open, qoad001.
+
+<a href="https://doi.org/10.1093/qopen/qoad001">Open Access Link</a>
+
+Rommel, J., Sagebiel, J., Baaken, M. C., Barreiro‐Hurlé, J., Bougherara, D., Cembalo, L., ... & Zagórska, K. (2022). Farmers' risk preferences in 11 European farming systems: A multi‐country replication of Bocquého et al.(2014). Applied Economic Perspectives and Policy.
+
+<a href="https://doi.org/10.1002/aepp.13330">Open Access Link</a>
+
 Rommel, J., Schulze, C., Matzdorf, B., Sagebiel, J., & Wechner, V. (2022). Learning about German farmers’ willingness to cooperate from public goods games and expert predictions. Q Open.
 
 <a href="https://doi.org/10.1093/qopen/qoac023">Open Access Link</a>
