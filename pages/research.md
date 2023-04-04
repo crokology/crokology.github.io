@@ -43,7 +43,6 @@ Apart from AgoraNatura, I am also involved in the EU project <a href="https://ww
         
 ---
 ### Other research activities
-
 #### <u>Public preferences for peatland restoration in Scotland</u>
 The dissertation of my Master's degree in Ecological Economics dealt with a public preference survey in Scotland, regarding restoration policies of peatlands. I was not involved in the design of the experiment (courtesy of Julia Martin-Ortega, Michela Faccioli and Klaus Glenk), but had the chance to be the first person doing analysis with the data. The focus of my dissertation were peoples time preferencs for peatland restoration and the role of framing effects of how restoration policies are presented to the public. The open access link to the published study can be found <a href="https://doi.org/10.1016/j.gloenvcha.2021.102323">here</a>.
 
