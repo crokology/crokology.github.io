@@ -40,6 +40,7 @@ Apart from AgoraNatura, I am also involved in the EU project <a href="https://ww
             <img src="../assets/BioDiv_Labelmechanismus.jpg"
                   title="Label mechanism" alt="Christoph Schulze"/></a>
         </div>
+        
 ---
 ### Other research activities
 
