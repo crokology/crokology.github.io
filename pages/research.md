@@ -10,6 +10,11 @@ Doing so, I will both apply qualitative and quantitative methods, such as Q-meth
 
 #### <u>Discrete Choice Experiments informing environmental policies - A systematic review</u>
 *Approaching the question of how Discrete Choice Experiments have been used to inform environmental policies, specically the design of Payments for Ecosystem Services schemes. The focus of this review will be placed on studies conducted with providers of Ecosystem Services, such as farmers, land managers or other individuals that actively shape agricultural landscapes on this planet. In this review we exhaustively analyse the institutional settings of the studies by comparing land use restrictions and contract design features of the individual publications.*
+<div class="row-fluid">
+        <a href="../assets/test.html">
+            <img src="../assets/test.html"
+                  title="Mapping of farmer DCE studies on AECM around the globe" alt="Christoph Schulze"/></a>
+        </div>
 
 #### <u>Stakeholder attitudes towards Payments for Ecosystem Services scheme design</u>
 *Using Q-methodology, I will analyse stakeholder attitudes towards institutional design features of Payments for Ecosystem Services schemes to identify factors affecting farmers' uptake of conservation policies. The particular interest here is to find out, whether there exist policy mismatches between different stakeholder groups. For the context of this study, I interview farmers, policy makers and intermediaries, who facilitate the implementation of policy schemes.*
