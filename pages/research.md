@@ -12,7 +12,7 @@ Doing so, I will both apply qualitative and quantitative methods, such as Q-meth
 *Approaching the question of how Discrete Choice Experiments have been used to inform environmental policies, specically the design of Payments for Ecosystem Services schemes. The focus of this review will be placed on studies conducted with providers of Ecosystem Services, such as farmers, land managers or other individuals that actively shape agricultural landscapes on this planet. In this review we exhaustively analyse the institutional settings of the studies by comparing land use restrictions and contract design features of the individual publications.*
 <div class="row-fluid">
         <a href="../assets/test.html">
-            <iframe src="../assets/test.html" width="400" height="300"></iframe></a>
+            <iframe src="../assets/test.html" width="800" height="400"></iframe></a>
         </div>
 
 #### <u>Stakeholder attitudes towards Payments for Ecosystem Services scheme design</u>
