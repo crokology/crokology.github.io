@@ -42,7 +42,7 @@ Apart from AgoraNatura, I am also involved in the EU project <a href="https://ww
 <div class="row-fluid">
         <a href="../assets/BioDiv_Labelmechanismus.jpg">
             <img src="../assets/BioDiv_Labelmechanismus.jpg"
-                  title="Label mechanism" alt="Hannes Schulze | Nur Mut"/></a>
+                  title="Design: Hannes Schulze | Nur Mut" alt="Hannes Schulze | Nur Mut"/></a>
         </div>
         
 ---
