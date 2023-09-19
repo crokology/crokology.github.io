@@ -16,7 +16,7 @@ Doing so, I will both apply qualitative and quantitative methods, such as Q-meth
         </div>
 
 #### <u>Stakeholder attitudes towards Payments for Ecosystem Services scheme design</u>
-*Using Q-methodology, I will analyse stakeholder attitudes towards institutional design features of Payments for Ecosystem Services schemes to identify factors affecting farmers' uptake of conservation policies. The particular interest here is to find out, whether there exist policy mismatches between different stakeholder groups. For the context of this study, I interview farmers, policy makers and intermediaries, who facilitate the implementation of policy schemes.*
+*Using Q-methodology, we explored stakeholder attitudes towards institutional design features of Agri-environmental climate measures to identify factors affecting farmers' uptake of conservation policies. For the context of this study, we interviewed farmers, policy makers and intermediaries, who facilitate the implementation of policy schemes. The open access link to the published study can be found <a href="https://doi.org/10.1093/qopen/qoad001">here</a>*
 <div class="row-fluid">
         <a href="../assets/stake.JPG">
             <img src="../assets/stake.JPG"
