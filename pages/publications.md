@@ -5,9 +5,15 @@ description: Peer reviewed Journal articles
 ---
 #### Peer reviewed journal articles
 
+Schulze, C., Matzdorf, B., Rommel, J., Czajkowski, M., García-Llorente, M., Gutiérrez-Briceño, I., ... & Zawadzki, W. (2024). Between farms and forks: Food industry perspectives on the future of EU food labelling. Ecological Economics, 217, 108066.
+
+<a href="https://doi.org/10.1016/j.ecolecon.2023.108066">Link</a>
+
+Schulze, C., Zagórska, K., Häfner, K., Markiewicz, O., Czajkowski, M., & Matzdorf, B. (2023). Using farmers' ex ante preferences to design agri‐environmental contracts: A systematic review. Journal of Agricultural Economics.
+
 Schulze, C., & Matzdorf, B. (2023). The institutional design of agri-environmental contracts-How stakeholder attitudes can inform policy making. Q Open, qoad001.
 
-<a href="https://doi.org/10.1093/qopen/qoad001">Open Access Link</a>
+<a href="https://doi.org/10.1111/1477-9552.12570">Open Access Link</a>
 
 Rommel, J., Sagebiel, J., Baaken, M. C., Barreiro‐Hurlé, J., Bougherara, D., Cembalo, L., ... & Zagórska, K. (2022). Farmers' risk preferences in 11 European farming systems: A multi‐country replication of Bocquého et al.(2014). Applied Economic Perspectives and Policy.
 
