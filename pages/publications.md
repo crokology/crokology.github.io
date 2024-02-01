@@ -11,9 +11,11 @@ Schulze, C., Matzdorf, B., Rommel, J., Czajkowski, M., García-Llorente, M., Gut
 
 Schulze, C., Zagórska, K., Häfner, K., Markiewicz, O., Czajkowski, M., & Matzdorf, B. (2023). Using farmers' ex ante preferences to design agri‐environmental contracts: A systematic review. Journal of Agricultural Economics.
 
+<a href="https://doi.org/10.1111/1477-9552.12570">Link</a>
+
 Schulze, C., & Matzdorf, B. (2023). The institutional design of agri-environmental contracts-How stakeholder attitudes can inform policy making. Q Open, qoad001.
 
-<a href="https://doi.org/10.1111/1477-9552.12570">Open Access Link</a>
+<a href="https://doi.org/10.1093/qopen/qoad001">Open Access Link</a>
 
 Rommel, J., Sagebiel, J., Baaken, M. C., Barreiro‐Hurlé, J., Bougherara, D., Cembalo, L., ... & Zagórska, K. (2022). Farmers' risk preferences in 11 European farming systems: A multi‐country replication of Bocquého et al.(2014). Applied Economic Perspectives and Policy.
 
