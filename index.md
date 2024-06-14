@@ -5,13 +5,13 @@ description: Christoph Schulze is a PhD candidate at Leibniz University Hannover
 keywords: Discrete Choice Experiments, Ecological Economics, Ecosystem Services, Behavioral Economics
 ---
 
-I am a PhD candidate at the Leibniz Centre for Agricultural Landscape Research and affiliated to the working group *Governance of Ecosystem Services* led by <a href="https://www.umwelt.uni-hannover.de/matzdorf0.html?&no_cache=1&L=1">Bettina Matzdorf</a>. My research interests include choice modelling by using Discrete Choice Experiments and analysing farmer behavior through the application of Experimental Economics. The topic of my PhD research is *The institutional design of agri-environmental contracts*.
+I am a PhD candidate at the Leibniz Centre for Agricultural Landscape Research and affiliated with the working group *Governance of Ecosystem Services* led by <a href="https://www.umwelt.uni-hannover.de/matzdorf0.html?&no_cache=1&L=1">Bettina Matzdorf</a>. My research interests include choice modelling by using Discrete Choice Experiments and analysing farmer behaviour through the application of Experimental Economics. The topic of my PhD research is *The institutional design of agri-environmental contracts*.
 
-Being formerly trained in Economics (B.Sc. and M.Sc.), I enjoy working empirically by applying most up to date statistical methods. While studying Ecological Economics (M.Sc.) at Edinburgh University, I became more familiar with qualitative approaches to improve stakeholder engagement in the environmental sphere. Thus, in my current research activities I combine my quantitative skill set with transdisciplinary-participatory approaches.
+Being formerly trained in Economics (B.Sc. and M.Sc.), I enjoy working empirically by applying the most up-to-date statistical methods. While studying Ecological Economics (M.Sc.) at Edinburgh University, I became more familiar with qualitative approaches to improve stakeholder engagement in the environmental sphere. Thus, I combine my quantitative skill set with transdisciplinary-participatory approaches in my current research activities.
 
-While presently being based in Müncheberg (Germany), I was fortunate to spent parts of my academic education in Mexico, Canada and the UK. During my stays abroad I developed a passion for intercultural exchange and constantly widened my approaches to conduct research. For that reason being, I consider myself a strong advocate of transdisciplinary research.
+While presently being based in Müncheberg (Germany), I was fortunate to spend parts of my academic education in Mexico, Canada and the UK. During my stays abroad I developed a passion for intercultural exchange and constantly widened my approaches to conducting research. For that reason being, I consider myself a strong advocate of transdisciplinary research.
 
-In my free time I enjoy running and wood working of all kinds.
+In my free time, I enjoy running and woodworking of all kinds.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
